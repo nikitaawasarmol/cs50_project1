@@ -1,0 +1,60 @@
+body {
+    background: linear-gradient(110deg, white 60%, #3d3939 30%);
+  }
+header {
+    text-align: center;
+    border-style: double;
+    color: red;
+    border: 5px solid black;
+    border-radius: 600px;
+    font-family: Castellar;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    width: 100%;
+    padding-left: 2em;
+    height: 30%;
+    padding-inline: 5rem;
+    border-top: double;
+    border-bottom: double;
+    border-color: black
+    
+}
+.page-info {
+    text-align: center;
+    padding-top: 2em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-size: larger;
+    text-align: center;
+
+}
+.first {
+    padding-left: 40%;
+    padding-top: 3em;
+}
+.second {
+    padding-left: 40%;
+    padding-top: 3em;
+}
+.third{
+    padding-left: 40%;
+    padding-top: 3em;
+}
+.fourth {
+    padding-left: 40%;
+    padding-top: 3em;
+}
+.fifth{
+    padding-left: 40%;
+    padding-top: 3em;
+}
+.sixth {
+    padding-left: 40%;
+    padding-top: 3em;
+}
+.seventh {
+    padding-left: 40%;
+    padding-top: 3em;
+}
